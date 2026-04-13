@@ -4,6 +4,8 @@ SPOTDISP
 
 Curenntly finished the CAD, working on the code.
 
+SPOTDISP is a desktop display connecting to Spotify API to display the data about the song I am curenntly listening to.
+I am bulding this beacuse music is very important piece of my life and workflow, so a display like this would fit nice into my room
 
 
 BOM
