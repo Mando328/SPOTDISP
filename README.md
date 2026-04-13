@@ -8,6 +8,7 @@
 /_______  / |____|   \_______  /____|   /_______  /___/_______  / |____|    
         \/                   \/                 \/            \/            
 </pre>
+</div>
 <img width="1920" height="642" alt="SPOTDISP_2026-Apr-13_07-13-31PM-000_CustomizedView274976848" src="https://github.com/user-attachments/assets/cd133172-80dd-40f5-9476-632f2be42534" />
 
 Curenntly finished the CAD, working on the code.
