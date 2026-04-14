@@ -9,18 +9,22 @@
         \/                   \/                 \/            \/            
 </pre>
 </div>
-<img width="1920" height="642" alt="SPOTDISP_2026-Apr-13_07-13-31PM-000_CustomizedView274976848" src="https://github.com/user-attachments/assets/cd133172-80dd-40f5-9476-632f2be42534" />
+
+<img width="1920" height="642" alt="507ee71f-a97b-49ff-9af1-d636e61401ca" src="https://github.com/user-attachments/assets/1522a5fb-6815-45cc-b39d-9e568329ba40" />
 
 Curenntly finished the CAD, working on the code.
 
 SPOTDISP is a desktop display connecting to Spotify API to display the data about the song I am curenntly listening to.
 I am bulding this beacuse music is very important piece of my life and workflow, so a display like this would fit nice into my room
+Halfway trought the desing I decided to swap the keybord switches to levers beacuse it will look cooler.
 
 
 BOM
 
-1. 1.8 inch $3.75	
-2. M3 heated intersets	$3.70
-3. LOLIN C3 mini microcontroler  $6.12	
-4. 3D printer
-5. M3 screws
+1. 1.8 inch screen                 $3.75	        
+2. M3 heated intersets	           $3.70
+3. LOLIN C3 mini microcontroler    $6.12
+4. On-off-on actuated levers       $3.49      
+5. On-off lever                    $2.22
+6. 3D printer
+7. M3 screws
