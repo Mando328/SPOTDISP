@@ -59,3 +59,4 @@ It can skip/return and pause the songs, displays cover art and progress bar and 
 </table>
 
 
+<img width="1177" height="662" alt="image" src="https://github.com/user-attachments/assets/2ffddd7c-0767-4c50-9bbd-a2d4e7b972eb" />
